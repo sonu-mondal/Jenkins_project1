@@ -1,2 +1,5 @@
+GitRepositoriesView.GitDirectories=D\:\\jenkins_test\\Jenkins_project1\\.git;D\:\\STS\\project1\\Jenkins_project1\\.git;D\:\\jenkins_test\\.git;
+GitRepositoriesView.GitDirectories.relative=Jenkins_project1\\.git;D\:\\STS\\project1\\Jenkins_project1\\.git;.git;
+RepositorySearchDialogSearchPath=D\:\\jenkins_test\\Jenkins_project1
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
