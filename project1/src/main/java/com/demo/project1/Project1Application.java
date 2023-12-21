@@ -10,6 +10,7 @@ public class Project1Application {
 		SpringApplication.run(Project1Application.class, args);
 		System.out.println("This is my java project");
 		System.out.println("Hello everyone");
+		System.out.println("Demo project to understand jenkins pipeline");
 	}
 
 }
